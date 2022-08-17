@@ -1,0 +1,51 @@
+{
+  "name": "Crypto Teddy #997",
+  "description": "The year 2200 on planet Earth. In the alternative universe, the evolutionary cycle touched the Teddy bears and they gained intelligence, and humanity remained at the level of primates. Choose your character and own one of 3333 unique hand-drawn and algorithmically generated toned teddy bears living on the TON blockchain",
+  "image": "https://github.com/zefault13/toned-teddies-universe/blob/main/997.png",
+  "dna": "38c048d2f92d9b2765cd5c1fa8ad95743584d37f",
+  "edition": 997,
+  "date": 1660634486544,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Yellow (RYB) "
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Frankenstein Body "
+    },
+    {
+      "trait_type": "PIRSING",
+      "value": "NONE "
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Usually Purple Eyes "
+    },
+    {
+      "trait_type": "NOSE",
+      "value": "Light Blue Nose "
+    },
+    {
+      "trait_type": "HEADWEAR HAIRSTYLE",
+      "value": "Brain Silver Metal "
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Black Suit With Red Tie "
+    },
+    {
+      "trait_type": "EMOTIONS ACCESSORIES",
+      "value": "Scared "
+    },
+    {
+      "trait_type": "LEVEL",
+      "value": "Level 3 "
+    },
+    {
+      "trait_type": "CREATORS",
+      "value": "Universe Labs"
+    }
+  ],
+  "Creators": "Universe LABS"
+}
